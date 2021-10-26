@@ -2,7 +2,7 @@
 
 Here is a Small Attempt to Recreate One of the popular Games, Angry Birds in Python using Pygame
 
-Link to 14 Hour Time Lapse of coding the game from Scratch: [Angry Birds - 14 Hour Time Lapse](https://youtu.be/_m4BEVxFFUw)
+Link to 14 Hour Time Lapse of coding the game from Scratch: [Angry Birds - 14 Hour Time Lapse](https://www.youtube.com/channel/UCyoqxMGXPxuvh534hhT_MTw?sub_confirmation=1)
 
 ### Requirements:
 
